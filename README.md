@@ -7,7 +7,7 @@ Open Source Prosthesis
 ### DESCRIPTION:
 <P align="justify"> .
 
-![CAD-File](https://github.com/RehabExo/OpenExoPro/blob/main/CAD.JPG)
+<img src="https://user-images.githubusercontent.com/117494099/221402160-d78f92e0-93b5-4ff8-ab4b-0da807e58f59.JPG" width="400" height="400"><br/>
 
 ### LICENSE:
 The project files are shared under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. <br/><br/>
