@@ -7,7 +7,7 @@ Upper-limb Prosthesis
 ### DESCRIPTION:
 <P align="justify"> .
 
-![CAD-File](https://github.com/RehabExo/OpenExoPro/blob/main/CAD.JPG)
+<img src="https://github.com/RehabExo/OpenExoPro/blob/main/CAD.JPG" width="400" height="400">
 
 ### LICENSE:
 The project files are shared under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please read the License Agreement for details. <br/><br/>
